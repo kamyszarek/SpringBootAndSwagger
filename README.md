@@ -1,6 +1,5 @@
 ### Description
-This application shows the basic functionalities for managing a database using swagger.
-
+This application shows the basic functionalities for managing a database by using swagger. It was used Java 11, Spring Boot and MySQL database.
 ### Prepare environment
 The application was coded in IntelliJ IDEA so it would be great to use that environment to run this project.<br>
 To run this app you need XAMPP(or any other program that allows to manage local web server) and download database file "company2" from this repo.<br>
